@@ -1,0 +1,1 @@
+/home/qpeng/m/python/plot/plot_tensile_stress_strain.py result_CNT_tensile.dat --title Defective CNT --xlim 0 0.2 --ylim 0 60 --Yn 20
