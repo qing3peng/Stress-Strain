@@ -12,7 +12,8 @@
 # 
 # For ease of your understanding, I tried to add as more comments as I can
 # Please adopt it for your system/projets
-# Qing Peng, 2021.07.12, qpeng.org@gmail.com, http://qpeng.org
+# Qing Peng, 2021.07.12, qpeng.org@gmail.com, http://qpeng.org 
+# the updates of this script on github: https://github.com/qing3peng/Stress-Strain
 # ------------------------------------------------------------------------------------------
 
 # ------------------importing the needed libraries------------------------------------------
