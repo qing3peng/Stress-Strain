@@ -1,0 +1,5 @@
+   Data analysis 
+Young's  modulus: 494.3 GPa 
+Material strength:  52.6 GPa 
+Material toughness: 4.012 
+Fracture strain:    0.137 
