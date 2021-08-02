@@ -16,3 +16,8 @@ Stress-strain curve plotting and data analysis
  
  Qing Peng 2021.07.12; qpeng.org@gmail.com; http://qpeng.org
 
+
+
+# Usage example: 
+
+python ./plot_tensile_stress_strain.py result_CNT_tensile.dat --title 'Defective CNT' --xlim 0 0.2 --ylim 0 60 --Yn 50 
